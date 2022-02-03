@@ -69,8 +69,6 @@
 <p align="center">
    <img src="https://github.com/Dharmen895/Dharmen895/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-<br/>
- 
 
 ## Connect with me:
 <p align="left">
