@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi, I'm Dharmendra! Great to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm an aspiring Full Stack Developer pursuing my B.Tech in Computer Science from Lovely Professional University.</h3>
-<br/>
 
 
 ## 🙋‍♂️ About Me
