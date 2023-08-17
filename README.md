@@ -16,8 +16,9 @@
      the potential for revolutionary breakthroughs! 🌌💡
 
  🖋️ "Simplifying the intricate world of tech is my hobby turned passion. I find delight in unraveling complex concepts and 
-     presenting them with clarity as a dedicated Technical Writer. 📚💡"
-     **My Blog (https://dharmen.hashnode.dev/)**
+     presenting them with clarity as a dedicated Technical Writer.
+     
+ **My Blog (https://dharmen.hashnode.dev/)**
 
  👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Dharmen895)**
 
@@ -79,7 +80,7 @@
 
 <a href = "https://www.linkedin.com/in/dharmen895/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Dharmen895"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/dharmen.895/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://dharmen.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/></a>
 </p>
 
 ## ❤ Views and Followers
